@@ -1,5 +1,3 @@
-pip install chainer==4.0.0
-pip install chainerrl==0.3.0
-sudo apt install python3-tk
-pip install gym[atari]
-
+pip3 install chainer
+pip3 install chainerrl
+pip3 install gym
